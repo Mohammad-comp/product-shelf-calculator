@@ -34,7 +34,7 @@ Perfect for:
 
 ### Installation
 - **Clone the repository**
-  - git clone https://github.com/yourusername/product-shelf-calculator.git
+  - git clone https://github.com/Mohammad-comp/product-shelf-calculator.git
 
 - **Navigate to project directory**
   - cd product-shelf-calculator
